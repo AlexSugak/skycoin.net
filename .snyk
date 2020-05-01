@@ -1,0 +1,24 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - lodash:
+        patched: '2020-05-01T01:10:51.309Z'
+    - react-youtube > lodash:
+        patched: '2020-05-01T01:10:51.309Z'
+    - babel-eslint > @babel/traverse > lodash:
+        patched: '2020-05-01T01:10:51.309Z'
+    - react-snapshot > http-proxy-middleware > lodash:
+        patched: '2020-05-01T01:10:51.309Z'
+    - babel-eslint > @babel/traverse > @babel/generator > lodash:
+        patched: '2020-05-01T01:10:51.309Z'
+    - flag > @types/react-redux > redux > lodash:
+        patched: '2020-05-01T01:10:51.309Z'
+    - babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/template > lodash:
+        patched: '2020-05-01T01:10:51.309Z'
+    - babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2020-05-01T01:10:51.309Z'
+    - yup > lodash:
+        patched: '2020-05-01T01:10:51.309Z'
