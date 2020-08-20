@@ -44,7 +44,7 @@
     "react-youtube": "^7.5.0",
     "styled-components": "^2.1.0",
     "styled-system": "1.0.0-4",
-    "yup": "^0.24.1"
+    "yup": "^0.28.2"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
