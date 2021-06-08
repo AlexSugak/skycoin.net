@@ -23,7 +23,7 @@
     "moment": "^2.18.1",
     "normalize.css": "^7.0.0",
     "palx": "^1.0.2",
-    "polished": "^1.2.1",
+    "polished": "^3.7.2",
     "prop-types": "^15.5.10",
     "ramda": "^0.24.1",
     "react": "^15.6.1",
